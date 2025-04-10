@@ -40,7 +40,7 @@
 | 05 LeeJongBeom (whdqja1128) | n/a | - | - | - | - | litcoder |
 | 06 KwonTaeHyeong (k-tae) | n/a | - | - | - | - | J-WBaek |
 | 07 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 08 JoWooChan   (abcde) | n/a | - | - | - | - | litcoder |
 | 09 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 10 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 11 ShinKyeongIm (tlsruddla) | n/a | - | - | - | - | litcoder |

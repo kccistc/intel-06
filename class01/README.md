@@ -46,7 +46,7 @@
 | 05 LeeJongBeom (whqdja1128) | n/a | - | - | - | - | - | max5982 |
 | 06 KwonTaeHyeong (k-tae) | n/a | - | - | - | - | - | J-WBaek |
 | 07 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 08 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 08 JoWooChan   (abcde) | n/a | - | - | - | - | - | max5982 |
 | 09 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 10 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 11 ShinKyeongIm (tlsruddla) | n/a | - | - | - | - | - | max5982 |
