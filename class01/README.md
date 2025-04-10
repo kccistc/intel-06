@@ -39,7 +39,7 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#3 | HW#4 | HW#5 | HW#6 | HW#7 | Reviewer |
 |-------------------------------|---------|------|------|------|------|------|----------|
-| 01 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 01 JangDaeHun (JangDaeHun) | n/a | - | - | - | - | - | max5982 |
 | 02 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 03 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 04 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
