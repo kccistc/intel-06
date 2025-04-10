@@ -47,7 +47,7 @@
 | 12 SongIGeon (SIG2000) | n/a | - | - | - | - | litcoder |
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 14 HongHunEui (HuniGit) | n/a | - | - | - | - | litcoder |
-| 15 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 15 OhGyeongtaek (GyeongtaekOh0207) | n/a | - | - | - | - | litcoder |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 17 HwangInki (Azruine) | n/a | - | - | - | - | - | mokiya |
 | 18 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
