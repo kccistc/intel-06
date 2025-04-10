@@ -56,7 +56,7 @@
 | 15 OhGyeongtaek (GyeongtaekOh0207) | n/a | - | - | - | - | - | max5982 |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 17 HwangInki (Azruine) | n/a | - | - | - | - | - | mokiya |
-| 18 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 18 HwangChiYeong (chhowm) | n/a | - | - | - | - | - | mokiya |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 20 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 21 LeeYeji (yedididi) | n/a | - | - | - | - | - | mokiya |
