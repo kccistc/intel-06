@@ -50,7 +50,7 @@
 | 15 OhGyeongtaek (GyeongtaekOh0207) | n/a | - | - | - | - | litcoder |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 17 HwangInki (Azruine) | n/a | - | - | - | - | - | mokiya |
-| 18 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 18 HwangChiYeong (chhowm) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 20 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 21 LeeYeji (yedididi) | n/a | - | - | - | - | jerry-jaeseong-lee |
