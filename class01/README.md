@@ -51,7 +51,7 @@
 | 10 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 11 ShinKyeongIm (tlsruddla) | n/a | - | - | - | - | - | max5982 |
 | 12 SongIGeon (SIG2000) | n/a | - | - | - | - | - | max5982 |
-| 13 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 13 LIMJEONGHWAN (HALIMIE) | n/a | - | - | - | - | - | max5982 |
 | 14 HongHunEui (HuniGit) | n/a | - | - | - | - | - | max5982 |
 | 15 OhGyeongtaek (GyeongtaekOh0207) | n/a | - | - | - | - | - | max5982 |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
