@@ -41,7 +41,7 @@
 | 06 KwonTaeHyeong (k-tae) | n/a | - | - | - | - | J-WBaek |
 | 07 YuSeungKyung (tmdrud7766) | n/a | - | - | - | - | litcoder |
 | 08 JoWooChan   (abcde) | n/a | - | - | - | - | litcoder |
-| 09 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 09 GaRamSong (GaramSong-95) | n/a | - | - | - | - | litcoder |
 | 10 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 11 ShinKyeongIm (tlsruddla) | n/a | - | - | - | - | litcoder |
 | 12 SongIGeon (SIG2000) | n/a | - | - | - | - | litcoder |
@@ -52,7 +52,7 @@
 | 17 HwangInki (Azruine) | n/a | - | - | - | - | - | mokiya |
 | 18 HwangChiYeong (chhowm) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 20 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 20 KangJunHyeong (junikang96) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 21 LeeYeji (yedididi) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 22 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 23 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |

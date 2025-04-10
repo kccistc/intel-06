@@ -47,7 +47,7 @@
 | 06 KwonTaeHyeong (k-tae) | n/a | - | - | - | - | - | J-WBaek |
 | 07 YuSeungKyung (tmdrud7766) | n/a | - | - | - | - | - | max5982 |
 | 08 JoWooChan   (abcde) | n/a | - | - | - | - | - | max5982 |
-| 09 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 09 GaRamSong (GaramSong-95) | n/a | - | - | - | - | - | max5982 |
 | 10 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 11 ShinKyeongIm (tlsruddla) | n/a | - | - | - | - | - | max5982 |
 | 12 SongIGeon (SIG2000) | n/a | - | - | - | - | - | max5982 |
@@ -58,7 +58,7 @@
 | 17 HwangInki (Azruine) | n/a | - | - | - | - | - | mokiya |
 | 18 HwangChiYeong (chhowm) | n/a | - | - | - | - | - | mokiya |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 20 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 20 KangJunHyeong (junikang96) | n/a | - | - | - | - | - | mokiya |
 | 21 LeeYeji (yedididi) | n/a | - | - | - | - | - | mokiya |
 | 22 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 23 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
@@ -74,4 +74,3 @@
 * Team v:
 * Team a:
 * Team b:
-
