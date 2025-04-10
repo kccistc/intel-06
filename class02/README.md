@@ -35,7 +35,7 @@
 |-------------------------------|---------|------|------|------|-------|----------|
 | 01 JangDaeHun (JangDaeHun) | n/a | - | - | - | - | litcoder |
 | 02 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 03 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 03 LimSoYeon (imso01) | n/a | - | - | - | - | litcoder |
 | 04 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 05 LeeJongBeom (whdqja1128) | n/a | - | - | - | - | litcoder |
 | 06 KwonTaeHyeong (k-tae) | n/a | - | - | - | - | J-WBaek |
