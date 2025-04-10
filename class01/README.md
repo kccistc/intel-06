@@ -42,7 +42,7 @@
 | 01 JangDaeHun (JangDaeHun) | n/a | - | - | - | - | - | max5982 |
 | 02 WooSeungMin (woof0302) | n/a | - | - | - | - | - | max5982 |
 | 03 LimSoYeon (imso01) | n/a | - | - | - | - | - | max5982 |
-| 04 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 04 KimBYungSung (kimbseong0814) | n/a | - | - | - | - | - | max5982 |
 | 05 LeeJongBeom (whqdja1128) | n/a | - | - | - | - | - | max5982 |
 | 06 KwonTaeHyeong (k-tae) | n/a | - | - | - | - | - | J-WBaek |
 | 07 YuSeungKyung (tmdrud7766) | n/a | - | - | - | - | - | max5982 |
