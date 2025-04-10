@@ -33,28 +33,28 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
 |-------------------------------|---------|------|------|------|-------|----------|
-| 01 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 02 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 03 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 01 JangDaeHun (JangDaeHun) | n/a | - | - | - | - | litcoder |
+| 02 WooSeungMin (woof0302) | n/a | - | - | - | - | litcoder |
+| 03 LimSoYeon (imso01) | n/a | - | - | - | - | litcoder |
 | 04 KimByungSung (kimbseong0814) | n/a | - | - | - | - | litcoder |
-| 05 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 06 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 07 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 09 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 05 LeeJongBeom (whdqja1128) | n/a | - | - | - | - | litcoder |
+| 06 KwonTaeHyeong (k-tae) | n/a | - | - | - | - | J-WBaek |
+| 07 YuSeungKyung (tmdrud7766) | n/a | - | - | - | - | litcoder |
+| 08 JoWooChan   (JWooChan) | n/a | - | - | - | - | litcoder |
+| 09 GaRamSong (GaramSong-95) | n/a | - | - | - | - | litcoder |
 | 10 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 11 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 12 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 13 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 15 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 11 ShinKyeongIm (tlsruddla) | n/a | - | - | - | - | litcoder |
+| 12 SongIGeon (SIG2000) | n/a | - | - | - | - | litcoder |
+| 13 LIMJEONGHWAN (HALIMIE) | n/a | - | - | - | - | litcoder |
+| 14 HongHunEui (HuniGit) | n/a | - | - | - | - | litcoder |
+| 15 OhGyeongtaek (GyeongtaekOh0207) | n/a | - | - | - | - | litcoder |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 17 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 18 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 17 HwangInki (Azruine) | n/a | - | - | - | - | - | mokiya |
+| 18 HwangChiYeong (chhowm) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 20 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 21 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 20 KangJunHyeong (junikang96) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 21 LeeYeji (yedididi) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 22 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 23 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 24 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 25 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 25 KimJiWon (camel54321) | n/a | - | - | - | - | jerry-jaeseong-lee |
