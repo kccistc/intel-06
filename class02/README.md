@@ -34,7 +34,7 @@
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
 |-------------------------------|---------|------|------|------|-------|----------|
 | 01 JangDaeHun (JangDaeHun) | n/a | - | - | - | - | litcoder |
-| 02 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 02 WooSeungMin (woof0302) | n/a | - | - | - | - | litcoder |
 | 03 LimSoYeon (imso01) | n/a | - | - | - | - | litcoder |
 | 04 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 05 LeeJongBeom (whdqja1128) | n/a | - | - | - | - | litcoder |
