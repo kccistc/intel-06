@@ -41,9 +41,9 @@
 | 06 KwonTaeHyeong (k-tae) | n/a | - | - | - | - | J-WBaek |
 | 07 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 09 GaRamSong (GaramSong-95) | n/a | - | - | - | - | litcoder |
-| 10 SeolYuSeung (honeybeefe) | n/a | - | - | - | - | litcoder |
-| 11 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 09 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 10 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 11 ShinKyeongIm (tlsruddla) | n/a | - | - | - | - | litcoder |
 | 12 SongIGeon (SIG2000) | n/a | - | - | - | - | litcoder |
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 14 HongHunEui (HuniGit) | n/a | - | - | - | - | litcoder |
