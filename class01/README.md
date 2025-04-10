@@ -40,13 +40,13 @@
 | 영문이름 (GitHub id)           | Team No | HW#3 | HW#4 | HW#5 | HW#6 | HW#7 | Reviewer |
 |-------------------------------|---------|------|------|------|------|------|----------|
 | 01 JangDaeHun (JangDaeHun) | n/a | - | - | - | - | - | max5982 |
-| 02 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 02 WooSeungMin (woof0302) | n/a | - | - | - | - | - | max5982 |
 | 03 LimSoYeon (imso01) | n/a | - | - | - | - | - | max5982 |
 | 04 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 05 LeeJongBeom (whqdja1128) | n/a | - | - | - | - | - | max5982 |
 | 06 KwonTaeHyeong (k-tae) | n/a | - | - | - | - | - | J-WBaek |
 | 07 YuSeungKyung (tmdrud7766) | n/a | - | - | - | - | - | max5982 |
-| 08 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 08 JoWooChan   (abcde) | n/a | - | - | - | - | - | max5982 |
 | 09 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 10 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 11 ShinKyeongIm (tlsruddla) | n/a | - | - | - | - | - | max5982 |
