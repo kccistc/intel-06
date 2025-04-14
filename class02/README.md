@@ -48,7 +48,7 @@
 | 13 LIMJEONGHWAN (HALIMIE) | n/a | - | - | - | - | litcoder |
 | 14 HongHunEui (HuniGit) | n/a | - | - | - | - | litcoder |
 | 15 OhGyeongtaek (GyeongtaekOh0207) | n/a | - | - | - | - | litcoder |
-| 16 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 16 JOJeongHo (JJH9708) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 17 HwangInki (Azruine) | n/a | - | - | - | - | - | mokiya |
 | 18 HwangChiYeong (chhowm) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
