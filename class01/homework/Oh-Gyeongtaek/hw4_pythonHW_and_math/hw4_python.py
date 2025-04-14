@@ -1,42 +1,42 @@
-# original_tuple = ('A', 'B')
-# temp_list = list(original_tuple)
-# temp_list.append('C')
-# new_tuple = tuple(temp_list)
+original_tuple = ('A', 'B')
+temp_list = list(original_tuple)
+temp_list.append('C')
+new_tuple = tuple(temp_list)
 
-# import numpy as np
+import numpy as np
 
-# def create_number_square_numpy(n):
-#     square = np.arange(1, n*n + 1).reshape(n, n)
+def create_number_square_numpy(n):
+    square = np.arange(1, n*n + 1).reshape(n, n)
     
-#     for row in square:
-#         print(' '.join(map(str, row)))
+    for row in square:
+        print(' '.join(map(str, row)))
 
-# n = int(input("정수 n을 입력하세요: "))
-# create_number_square_numpy(n)
+n = int(input("정수 n을 입력하세요: "))
+create_number_square_numpy(n)
 
 
-# def create_and_reshape_square(n):
-#     square = np.arange(1, n*n + 1).reshape(n, n)
+def create_and_reshape_square(n):
+    square = np.arange(1, n*n + 1).reshape(n, n)
     
-#     print("n x n 사각형:")
-#     for row in square:
-#         print(' '.join(map(str, row)))
+    print("n x n 사각형:")
+    for row in square:
+        print(' '.join(map(str, row)))
     
-#     flattened = square.reshape(-1)
+    flattened = square.reshape(-1)
     
-#     print("\n1차원 배열:")
-#     print(flattened)
+    print("\n1차원 배열:")
+    print(flattened)
     
-#     return flattened
+    return flattened
 
-# n = int(input("정수 n을 입력하세요: "))
-# create_and_reshape_square(n)
+n = int(input("정수 n을 입력하세요: "))
+create_and_reshape_square(n)
 
 import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
 
-img_path = "class01/homework/Oh-Gyeongtaek/image.jpg"
+img_path = "class01/homework/Oh-Gyeongtaek/hw4_pythonHW_and_math/image.jpg"
 img = np.array(Image.open(img_path))
 
 plt.figure(figsize=(8, 6))
