@@ -54,7 +54,7 @@
 | 13 LIMJEONGHWAN (HALIMIE) | n/a | O | - | - | - | - | max5982 |
 | 14 HongHunEui (HuniGit) | n/a | O | - | - | - | - | max5982 |
 | 15 OhGyeongtaek (GyeongtaekOh0207) | n/a | O | - | - | - | - | max5982 |
-| 16 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 16 JoJeongho (JJH9708) | n/a | - | - | - | - | - | mokiya |
 | 17 HwangInki (Azruine) | n/a | O | - | - | - | - | mokiya |
 | 18 HwangChiYeong (chhowm) | n/a | O | - | - | - | - | mokiya |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
