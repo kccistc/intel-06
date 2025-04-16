@@ -50,11 +50,11 @@
 | 09 GaRamSong (GaramSong-95) | n/a | O | △ | - | - | - | max5982 |
 | 10 SeolYuSeung (honeybeefe) | n/a | O | - | - | - | - | max5982 |
 | 11 ShinKyeongIm (tlsruddla) | n/a | O | - | - | - | - | max5982 |
-| 12 SongIGeon (SIG2000) | n/a | O | - | - | - | - | max5982 |
-| 13 LIMJEONGHWAN (HALIMIE) | n/a | O | - | - | - | - | max5982 |
+| 12 SongIGeon (SIG2000) | n/a | O | ㅁ | - | - | - | max5982 |
+| 13 LIMJEONGHWAN (HALIMIE) | n/a | O | O | - | - | - | max5982 |
 | 14 HongHunEui (HuniGit) | n/a | O | O | - | - | - | max5982 |
 | 15 OhGyeongtaek (GyeongtaekOh0207) | n/a | O | ㅁ | - | - | - | max5982 |
-| 16 JoJeongho (JJH9708) | n/a | O | - | - | - | - | mokiya |
+| 16 JoJeongho (JJH9708) | n/a | O | O | - | - | - | mokiya |
 | 17 HwangInki (Azruine) | n/a | O | ㅁ | - | - | - | mokiya |
 | 18 HwangChiYeong (chhowm) | n/a | O | ㅁ | - | - | - | mokiya |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
