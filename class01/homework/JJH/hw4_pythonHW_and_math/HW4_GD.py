@@ -1,5 +1,7 @@
 import numpy as np
 import matplotlib.pylab as plt
+import matplotlib
+matplotlib.use('TkAgg')
 from matplotlib.colors import LogNorm
 from mpl_toolkits.mplot3d import Axes3D
 
