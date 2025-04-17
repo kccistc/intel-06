@@ -47,7 +47,7 @@
 | 06 KwonTaeHyeong (k-tae) | n/a | O | O | - | - | - | J-WBaek |
 | 07 YuSeungKyung (tmdrud7766) | n/a | O | O | - | - | - | max5982 |
 | 08 JoWooChan   (JWooChan) | n/a | O | O | - | - | - | max5982 |
-| 09 GaRamSong (GaramSong-95) | n/a | O | △ | - | - | - | max5982 |
+| 09 GaRamSong (GaramSong-95) | n/a | O | O | - | - | - | max5982 |
 | 10 SeolYuSeung (honeybeefe) | n/a | O | - | - | - | - | max5982 |
 | 11 ShinKyeongIm (tlsruddla) | n/a | O | O | - | - | - | max5982 |
 | 12 SongIGeon (SIG2000) | n/a | O | O | - | - | - | max5982 |
