@@ -45,7 +45,7 @@
 | 04 KimBYungSung (kimbseong0814) | n/a | O | - | - | - | - | max5982 |
 | 05 LeeJongBeom (whqdja1128) | n/a | O | - | - | - | - | max5982 |
 | 06 KwonTaeHyeong (k-tae) | n/a | O | - | - | - | - | J-WBaek |
-| 07 YuSeungKyung (tmdrud7766) | n/a | O | - | - | - | - | max5982 |
+| 07 YuSeungKyung (tmdrud7766) | n/a | O | - | 90 | - | - | max5982 |
 | 08 JoWooChan   (JWooChan) | n/a | O | - | - | - | - | max5982 |
 | 09 GaRamSong (GaramSong-95) | n/a | O | - | - | - | - | max5982 |
 | 10 SeolYuSeung (honeybeefe) | n/a | O | - | - | - | - | max5982 |
