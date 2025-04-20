@@ -39,31 +39,31 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#3 | HW#4 | HW#5 | HW#6 | HW#7 | Reviewer |
 |-------------------------------|---------|------|------|------|------|------|----------|
-| 01 JangDaeHun (JangDaeHun) | n/a | O | - | - | - | - | max5982 |
-| 02 WooSeungMin (woof0302) | n/a | O | - | - | - | - | max5982 |
-| 03 LimSoYeon (imso01) | n/a | O | - | - | - | - | max5982 |
-| 04 KimBYungSung (kimbseong0814) | n/a | O | - | - | - | - | max5982 |
-| 05 LeeJongBeom (whqdja1128) | n/a | O | - | - | - | - | max5982 |
-| 06 KwonTaeHyeong (k-tae) | n/a | O | - | - | - | - | J-WBaek |
-| 07 YuSeungKyung (tmdrud7766) | n/a | O | - | 90 | - | - | max5982 |
-| 08 JoWooChan   (JWooChan) | n/a | O | - | - | - | - | max5982 |
-| 09 GaRamSong (GaramSong-95) | n/a | O | - | - | - | - | max5982 |
-| 10 SeolYuSeung (honeybeefe) | n/a | O | - | - | - | - | max5982 |
-| 11 ShinKyeongIm (tlsruddla) | n/a | O | - | - | - | - | max5982 |
+| 01 JangDaeHun (JangDaeHun) | n/a | O | - | 100 | 100 | - | max5982 |
+| 02 WooSeungMin (woof0302) | n/a | O | - | 100 | 100 | - | max5982 |
+| 03 LimSoYeon (imso01) | n/a | O | - | 100 | 100 | - | max5982 |
+| 04 KimBYungSung (kimbseong0814) | n/a | O | - | 100 | 100 | - | max5982 |
+| 05 LeeJongBeom (whqdja1128) | n/a | O | - | - | 100 | - | max5982 |
+| 06 KwonTaeHyeong (k-tae) | n/a | O | - | - | 100 | - | J-WBaek |
+| 07 YuSeungKyung (tmdrud7766) | n/a | O | - | 100 | 100 | - | max5982 |
+| 08 JoWooChan   (JWooChan) | n/a | O | - | 100 | 100 | - | max5982 |
+| 09 GaRamSong (GaramSong-95) | n/a | O | - | 0 | - | - | max5982 |
+| 10 SeolYuSeung (honeybeefe) | n/a | O | - | - | 100 | - | max5982 |
+| 11 ShinKyeongIm (tlsruddla) | n/a | O | - | - | 100 | - | max5982 |
 | 12 SongIGeon (SIG2000) | n/a | O | - | - | - | - | max5982 |
-| 13 LIMJEONGHWAN (HALIMIE) | n/a | O | - | - | - | - | max5982 |
+| 13 LIMJEONGHWAN (HALIMIE) | n/a | O | - | 100 | 100 | - | max5982 |
 | 14 HongHunEui (HuniGit) | n/a | O | - | - | - | - | max5982 |
-| 15 OhGyeongtaek (GyeongtaekOh0207) | n/a | O | - | - | - | - | max5982 |
-| 16 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 15 OhGyeongtaek (GyeongtaekOh0207) | n/a | O | - | 100 | 100 | - | max5982 |
+| 16 JoJeongho (JJH9708) | n/a | O | O | 100 | 100 | - | mokiya |
 | 17 HwangInki (Azruine) | n/a | O | - | - | - | - | mokiya |
-| 18 HwangChiYeong (chhowm) | n/a | O | - | - | - | - | mokiya |
+| 18 HwangChiYeong (chhowm) | n/a | O | - | - | 100 | - | mokiya |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 20 KangJunHyeong (junikang96) | n/a | O | - | - | - | - | mokiya |
-| 21 LeeYeji (yedididi) | n/a | O | - | - | - | - | mokiya |
+| 20 KangJunHyeong (junikang96) | n/a | O | - | 100 | 100 | - | mokiya |
+| 21 LeeYeji (yedididi) | n/a | O | - | 100 | 100 | - | mokiya |
 | 22 KimJiWon (camel54321) | n/a | O | - | - | - | - | mokiya |
 | 23 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 24 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 25 KimJiWon (camel54321) | n/a | - | - | - | - | - | mokiya |
+| 25 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 
 ### Mini Projects
 
