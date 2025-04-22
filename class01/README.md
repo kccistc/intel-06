@@ -52,7 +52,7 @@
 | 11 ShinKyeongIm (tlsruddla) | n/a | O | O | - | 100 | 80 | max5982 |
 | 12 SongIGeon (SIG2000) | n/a | O | O | - | - | - | max5982 |
 | 13 LIMJEONGHWAN (HALIMIE) | n/a | O | O | 100 | 100 | 90 | max5982 |
-| 14 HongHunEui (HuniGit) | n/a | O | O | - | - | - | max5982 |
+| 14 HongHunEui (HuniGit) | n/a | O | O | 80 | 100 | - | max5982 |
 | 15 OhGyeongtaek (GyeongtaekOh0207) | n/a | O | O | 100 | 100 | - | max5982 |
 | 16 JoJeongho (JJH9708) | n/a | O | O | 100 | 100 | 90 | mokiya |
 | 17 HwangInki (Azruine) | n/a | O | O | - | - | - | mokiya |
@@ -61,9 +61,6 @@
 | 20 KangJunHyeong (junikang96) | n/a | O | O | 100 | 100 | 80 | mokiya |
 | 21 LeeYeji (yedididi) | n/a | O | O | 100 | 100 | - | mokiya |
 | 22 KimJiWon (camel54321) | n/a | O | O | - | - | - | mokiya |
-| 23 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 24 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 25 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 
 ### Mini Projects
 
