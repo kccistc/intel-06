@@ -68,3 +68,38 @@ for idx in range(10):
 tokenizer = AutoTokenizer.from_pretrained("Helsinki-NLP/opus-mt-ko-en")
 encoded_input = tokenizer(lang_input, padding=True, truncation=True, return_tensors="pt")
 decoded_input = tokenizer(lang_output, padding=True, truncation=True, return_tensors="pt")
+
+class Encoder(nn.Module):
+    def init(self,
+                    # moduleSelect = int,
+                    vocab_size : int,
+                    embed_size : int,
+                    hidden_size ,
+                    dropout = 0.1
+                    ):
+        super().init()
+    self.hidden_size = hidden_size
+    self.embedding = nn.Embedding(vocab_size, embed_size,padding_idx=tokenizer.pad_token_id)
+    self.GRU = nn.GRU(embed_size, hidden_size, batch_first=True)
+    def forward(self, input):
+        embedded = self.embedding(input)
+        output, hidden = self.GRU(embedded)
+        return output, hidden
+
+class Attention(nn.Module):
+    def init(self, hidden_size):
+        super().init()
+        self.hidden_size = hidden_size
+        self.softmax = nn.Softmax(2)
+        
+    def forward(self, query, key):
+        # input: decoder
+        # hidden: encoder
+        key = key
+        query = query
+        value = key
+        Attscore = torch.bmm(query, key.permute(0, 2, 1))
+        # softmax,
+        Attscore = self.softmax(Attscore)
+        context = torch.bmm(Attscore, value)
+        return context, Attscore
