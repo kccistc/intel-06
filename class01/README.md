@@ -55,7 +55,7 @@
 | 14 HongHunEui (HuniGit) | n/a | O | O | 80 | 100 | - | max5982 |
 | 15 OhGyeongtaek (GyeongtaekOh0207) | n/a | O | O | 100 | 100 | - | max5982 |
 | 16 JoJeongho (JJH9708) | n/a | O | O | 100 | 100 | 90 | mokiya |
-| 17 HwangInki (Azruine) | n/a | O | O | - | - | - | mokiya |
+| 17 HwangInki (Azruine) | n/a | O | O | 100 | 100 | - | mokiya |
 | 18 HwangChiYeong (chhowm) | n/a | O | O | - | 100 | 90 | mokiya |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 20 KangJunHyeong (junikang96) | n/a | O | O | 100 | 100 | 80 | mokiya |
