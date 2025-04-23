@@ -35,32 +35,32 @@
 * HW#4 : [[Class01 HW#4] python 과제 및 math 실습](https://github.com/kccistc/intel-06/issues/4)
 * HW#5 : [[Class01 HW#5] Perceptron & ANN 실습](https://github.com/kccistc/intel-06/issues/5)
 * HW#6 : [[Class01 HW#6] CNN 실습](https://github.com/kccistc/intel-06/issues/6)
-* HW#7 : [[Class01 HW#7] RNN LSTM GRU 실습](https://github.com/kccistc/intel-06/issues/7)
+* HW#7 : [[Class01 HW#7] RNN LSTM GRU Attention 실습](https://github.com/kccistc/intel-06/issues/7)
 
 | 영문이름 (GitHub id)           | Team No | HW#3 | HW#4 | HW#5 | HW#6 | HW#7 | Reviewer |
 |-------------------------------|---------|------|------|------|------|------|----------|
-| 01 JangDaeHun (JangDaeHun) | n/a | O | O | 100 | 100 | - | max5982 |
-| 02 WooSeungMin (woof0302) | n/a | O | O | 100 | 100 | 90 | max5982 |
-| 03 LimSoYeon (imso01) | n/a | O | O | 100 | 100 | 90 | max5982 |
-| 04 KimBYungSung (kimbseong0814) | n/a | O | O | 100 | 100 | 90 | max5982 |
-| 05 LeeJongBeom (whqdja1128) | n/a | O | O | - | 100 | - | max5982 |
+| 01 JangDaeHun (JangDaeHun) | n/a | O | O | 100 | 100 | - | J-WBaek |
+| 02 WooSeungMin (woof0302) | n/a | O | O | 100 | 100 | 90 | J-WBaek |
+| 03 LimSoYeon (imso01) | n/a | O | O | 100 | 100 | 90 | J-WBaek |
+| 04 KimBYungSung (kimbseong0814) | n/a | O | O | 100 | 100 | 90 | J-WBaek |
+| 05 LeeJongBeom (whqdja1128) | n/a | O | O | - | 100 | - | J-WBaek |
 | 06 KwonTaeHyeong (k-tae) | n/a | O | O | - | 100 | - | J-WBaek |
-| 07 YuSeungKyung (tmdrud7766) | n/a | O | O | 100 | 100 | 90 | max5982 |
-| 08 JoWooChan   (JWooChan) | n/a | O | O | 100 | 100 | 90 | max5982 |
-| 09 GaRamSong (GaramSong-95) | n/a | O | O | 0 | - | - | max5982 |
-| 10 SeolYuSeung (honeybeefe) | n/a | O | - | - | 100 | - | max5982 |
-| 11 ShinKyeongIm (tlsruddla) | n/a | O | O | - | 100 | 80 | max5982 |
-| 12 SongIGeon (SIG2000) | n/a | O | O | - | - | - | max5982 |
-| 13 LIMJEONGHWAN (HALIMIE) | n/a | O | O | 100 | 100 | 90 | max5982 |
-| 14 HongHunEui (HuniGit) | n/a | O | O | 80 | 100 | - | max5982 |
-| 15 OhGyeongtaek (GyeongtaekOh0207) | n/a | O | O | 100 | 100 | - | max5982 |
-| 16 JoJeongho (JJH9708) | n/a | O | O | 100 | 100 | 90 | mokiya |
-| 17 HwangInki (Azruine) | n/a | O | O | 100 | 100 | - | mokiya |
-| 18 HwangChiYeong (chhowm) | n/a | O | O | - | 100 | 90 | mokiya |
-| 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 20 KangJunHyeong (junikang96) | n/a | O | O | 100 | 100 | 80 | mokiya |
-| 21 LeeYeji (yedididi) | n/a | O | O | 100 | 100 | - | mokiya |
-| 22 KimJiWon (camel54321) | n/a | O | O | - | - | - | mokiya |
+| 07 YuSeungKyung (tmdrud7766) | n/a | O | O | 100 | 100 | 90 | J-WBaek |
+| 08 JoWooChan   (JWooChan) | n/a | O | O | 100 | 100 | 90 | J-WBaek |
+| 09 GaRamSong (GaramSong-95) | n/a | O | O | 0 | - | - | J-WBaek |
+| 10 SeolYuSeung (honeybeefe) | n/a | O | - | - | 100 | - | J-WBaek |
+| 11 ShinKyeongIm (tlsruddla) | n/a | O | O | - | 100 | 80 | J-WBaek |
+| 12 SongIGeon (SIG2000) | n/a | O | O | - | - | - | J-WBaek |
+| 13 LIMJEONGHWAN (HALIMIE) | n/a | O | O | 100 | 100 | 90 | J-WBaek |
+| 14 HongHunEui (HuniGit) | n/a | O | O | 80 | 100 | - | J-WBaek |
+| 15 OhGyeongtaek (GyeongtaekOh0207) | n/a | O | O | 100 | 100 | - | J-WBaek |
+| 16 JoJeongho (JJH9708) | n/a | O | O | 100 | 100 | 90 | J-WBaek |
+| 17 HwangInki (Azruine) | n/a | O | O | 100 | 100 | - | J-WBaek |
+| 18 HwangChiYeong (chhowm) | n/a | O | O | - | 100 | 90 | J-WBaek |
+| 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | J-WBaek |
+| 20 KangJunHyeong (junikang96) | n/a | O | O | 100 | 100 | 80 | J-WBaek |
+| 21 LeeYeji (yedididi) | n/a | O | O | 100 | 100 | - | J-WBaek |
+| 22 KimJiWon (camel54321) | n/a | O | O | - | - | - | J-WBaek |
 
 ### Mini Projects
 
