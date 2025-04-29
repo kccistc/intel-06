@@ -124,7 +124,7 @@ class_names = ['NORMAL', 'PNEUMONIA']
 
 # 시각화
 plt.figure(figsize=(12, 12))
-plt.suptitle("YSK  (Homework #5)", fontsize=20, fontweight='bold')
+plt.suptitle("SGR  (Homework #5)", fontsize=20, fontweight='bold')
 for i in range(25):
     ax = plt.subplot(5, 5, i + 1)
     plt.imshow(images[i])
