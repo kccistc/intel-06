@@ -56,7 +56,7 @@
 | 15 OhGyeongtaek (GyeongtaekOh0207) | n/a | O | O | 100 | 100 | - | J-WBaek |
 | 16 JoJeongho (JJH9708) | n/a | O | O | 100 | 100 | 90 | J-WBaek |
 | 17 HwangInki (Azruine) | n/a | O | O | 100 | 100 | - | J-WBaek |
-| 18 HwangChiYeong (chhowm) | n/a | O | O | - | 100 | 90 | J-WBaek |
+| 18 HwangChiYeong (chhowm) | n/a | O | O | 100 | 100 | 90 | J-WBaek |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | J-WBaek |
 | 20 KangJunHyeong (junikang96) | n/a | O | O | 100 | 100 | 80 | J-WBaek |
 | 21 LeeYeji (yedididi) | n/a | O | O | 100 | 100 | - | J-WBaek |
