@@ -73,16 +73,18 @@ $ find ./ -iname *.bin|xargs ls -l
 
 ### 제출현황
 
-### Team: 뭔가 센스있는 팀명
-<프로젝트 요약>
+### Team: Overflower
+
+차량 행태 인식 AI 프로젝트: 졸음운전, 과속차량 감지하여 사용자에게 알려주는 시스템
+
 * Members
   | Name | Role |
   |----|----|
-  | 채치수 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
-  | 송태섭 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
-  | 정대만 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
-  | 채소연 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
-  | 권준호 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
-* Project Github : https://github.com/goodsense/project_awesome.git
-* 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
+  | 송가람 | Project lead, 프로젝트를 총괄 및 차량 인식 알고리즘 구현 |
+  | 황치영 | CAN 통신 및 하드웨어 시스템 구현 담당 |
+  | 설유승 | data 수집 및 training |
+  | 신경임 | CAN 통신 및 하드웨어 시스템 구현 담당 |
+
+* Project Github : https://github.com/GaramSong-95/Project-DrivingAI
+* 발표자료 : https://github.com/GaramSong-95/Project-DrivingAI/tree/main/presentation
 
