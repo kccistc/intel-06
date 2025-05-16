@@ -105,4 +105,20 @@ $ find ./ -iname *.bin|xargs ls -l
 * Project Github : https://github.com/imso01/edge_ai_project
 * 발표자료 : https://github.com/imso01/edge_ai_project/tree/main/presentation
 
+### 👁️‍🗨️ Team: Observer
+
+사용자의 포즈와 사진의 포즈를 비교한 후 자세를 판단 하며 점수를 매겨주는 게임
+
+* Members
+  | Name | Role |
+  |----|----|
+  | 홍훈의 | 총괄 PM |
+  | 오경택 | AI |
+  | 임정환 | AI |
+  | 조정호 | AI |
+
+
+* Project Github : https://github.com/HuniGit/PerfectPose
+* 발표자료 : [https://github.com/imso01/edge_ai_project/tree/main/presentation](https://github.com/HuniGit/PerfectPose/blob/main/CAN._.Game.pptx)
+
 
