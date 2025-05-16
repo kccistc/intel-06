@@ -122,3 +122,24 @@ $ find ./ -iname *.bin|xargs ls -l
 * 발표자료 : [https://github.com/imso01/edge_ai_project/tree/main/presentation](https://github.com/HuniGit/PerfectPose/blob/main/CAN._.Game.pptx)
 
 
+
+
+### Team: MADMAD
+
+AI를 이용한 스마트 PUB
+
+* Members
+  | Name | Role |
+  |----|----|
+  | 송이건 | 총괄 헤드 , 서버 관리 및 하드웨어 제어 |
+  | 유승경 | Cuda 및 카메라를 이용한 AI 제어  |
+  | 장대훈 | STT, TTS를 이용한 AI  구현 담당 |
+  | 우승민 | 스마트펍GUI+ 하이볼 DB 관리 |
+  | 조우찬 | 하드웨어 파트 ,STM-32, Robot Arm , Arduino  |
+
+
+* Project Github : https://github.com/tmdrud7766/Intel_AI_FINAL.git
+* 발표자료 : https://github.com/tmdrud7766/Intel_AI_FINAL/tree/main/ppt
+
+
+
