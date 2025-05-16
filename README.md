@@ -88,3 +88,21 @@ $ find ./ -iname *.bin|xargs ls -l
 * Project Github : https://github.com/GaramSong-95/Project-DrivingAI
 * 발표자료 : https://github.com/GaramSong-95/Project-DrivingAI/tree/main/presentation
 
+### Team: AIMON
+
+아이의 행동을 감지하여 놀아주거나 현 상태를 파악하는 시스템 구현
+
+* Members
+  | Name | Role |
+  |----|----|
+  | 임소연 | Project lead, 프로젝트를 총괄 및 YOLO 이미지 학습 담당 |
+  | 이종범 | 원격 감지를 위한 APPLICATION 담당 |
+  | 권태형 | STT, TTS를 이용한 AI CHAT BOT을 구현 담당 |
+  | 강준형 | OPENPOSE를 이용한 자세, 움직임 감지 구현 담당 |
+  | 이예지 | LCD GUI 및 SERVER 구현 담당 |
+
+
+* Project Github : https://github.com/imso01/edge_ai_project
+* 발표자료 : https://github.com/imso01/edge_ai_project/tree/main/presentation
+
+
